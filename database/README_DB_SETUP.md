@@ -67,10 +67,10 @@ Option #2 - One-click Database setup script
 Run setup_all.sql to create the full database.
 
 Which will execute these scripts:
-:r 01_create_database.sql
-:r 02_create_tables.sql
-:r 03_create_procedures.sql
-:r 04_seed_sample_data.sql
+- :r 01_create_database.sql
+- :r 02_create_tables.sql
+- :r 03_create_procedures.sql
+- :r 04_seed_sample_data.sql
 
 
 
